@@ -3,7 +3,10 @@ using System.ComponentModel.DataAnnotations;
 
 namespace PartsUnlimited.Models
 {
+<<<<<<< HEAD
     //Comment to test commit into repo1
+=======
+>>>>>>> b5eaa596236a12599bdc1c7575f66fdd1d9991ba
     public class CartItem : ILineItem
     {
         [Key]
